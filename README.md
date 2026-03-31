@@ -4,9 +4,9 @@
 
 ## 👤 Student Details
 
-- \*\*Name:\*\* Akshat Kumar
+- **Name:** Akshat Kumar
 
-- \*\*Roll Number:\*\* 24BCE10612
+- **Roll Number:** 24BCE10612
 
 
 
@@ -22,7 +22,7 @@
 
 
 
-The \*\*Linux kernel\*\* is the core component of the Linux operating system. It acts as a bridge between hardware and software, managing system resources efficiently.
+The **Linux kernel** is the core component of the Linux operating system. It acts as a bridge between hardware and software, managing system resources efficiently.
 
 
 
@@ -30,17 +30,17 @@ The \*\*Linux kernel\*\* is the core component of the Linux operating system. It
 
 
 
-- \*\*Process Management\*\*: Handles creation, scheduling, and termination of processes.
+- **Process Management**: Handles creation, scheduling, and termination of processes.
 
-- \*\*Memory Management\*\*: Allocates and manages system memory for applications.
+- **Memory Management**: Allocates and manages system memory for applications.
 
-- \*\*Device Management\*\*: Controls hardware devices through drivers.
+- **Device Management**: Controls hardware devices through drivers.
 
-- \*\*System Calls\*\*: Provides an interface for applications to interact with hardware.
+- **System Calls**: Provides an interface for applications to interact with hardware.
 
-- \*\*Open Source\*\*: Freely available for modification and distribution.
+- **Open Source**: Freely available for modification and distribution.
 
-- \*\*Modular Design\*\*: Supports loadable kernel modules for flexibility.
+- **Modular Design**: Supports loadable kernel modules for flexibility.
 
 
 
