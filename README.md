@@ -166,11 +166,11 @@ bash script5.sh
 
 
 
-- Scripts were tested on WSL (Ubuntu)
+- Scripts were tested on Git Bash(Windows)
 
 - Output may vary depending on system configuration
 
-- Firefox must be installed for Script 2 to show full details
+- Linux Kernal must be installed for Script 2 to show full details
 
 
 
@@ -182,5 +182,5 @@ bash script5.sh
 
 
 
-This project demonstrates practical understanding of open-source software using Mozilla Firefox. Through scripting and analysis, it highlights key Linux concepts, automation techniques, and the importance of open-source ecosystems.
+This project demonstrates practical understanding of open-source software using Linux Kernal. Through scripting and analysis, it highlights key Linux concepts, automation techniques, and the importance of open-source ecosystems.
 
