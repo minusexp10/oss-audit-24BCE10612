@@ -1,4 +1,4 @@
-\# 🧾 Open Source Audit Report – Mozilla Firefox
+\# 🧾 Open Source Audit Report – Linux Kernal
 
 
 
@@ -14,7 +14,7 @@
 
 
 
-\## 🌐 Chosen Software  
+\## 🌐 Chosen Software
 
 
 
@@ -62,7 +62,7 @@ The Linux kernel ensures smooth communication between software and hardware, mak
 
 \### 🔹 Script 1: System Identity Report
 
-Displays system details such as kernel version, user name, uptime, date, and Linux distribution.  
+Displays system details such as kernel version, user name, uptime, date, and Linux distribution.
 
 Concepts used: variables, command substitution, system commands.
 
@@ -70,7 +70,7 @@ Concepts used: variables, command substitution, system commands.
 
 \### 🔹 Script 2: FOSS Package Inspector
 
-Checks if Firefox is installed and displays its version and details.  
+Checks if Firefox is installed and displays its version and details.
 
 Concepts used: if-else, dpkg, grep, case statement.
 
@@ -78,7 +78,7 @@ Concepts used: if-else, dpkg, grep, case statement.
 
 \### 🔹 Script 3: Disk and Permission Auditor
 
-Audits key system directories for permissions and disk usage. Also checks Firefox config directory.  
+Audits key system directories for permissions and disk usage. Also checks Firefox config directory.
 
 Concepts used: for loop, ls -ld, du, awk, cut.
 
@@ -86,7 +86,7 @@ Concepts used: for loop, ls -ld, du, awk, cut.
 
 \### 🔹 Script 4: Log File Analyzer
 
-Reads a log file, counts occurrences of a keyword, and shows recent matches.  
+Reads a log file, counts occurrences of a keyword, and shows recent matches.
 
 Concepts used: while loop, if condition, counters, command-line arguments.
 
@@ -94,7 +94,7 @@ Concepts used: while loop, if condition, counters, command-line arguments.
 
 \### 🔹 Script 5: Open Source Manifesto Generator
 
-Generates a personalized open-source manifesto based on user input and saves it to a file.  
+Generates a personalized open-source manifesto based on user input and saves it to a file.
 
 Concepts used: read, string handling, file redirection, date.
 
@@ -128,15 +128,15 @@ chmod +x script1.sh script2.sh script3.sh script4.sh script5.sh
 
 
 
-bash script1.sh  
+bash script1.sh
 
-bash script2.sh  
+bash script2.sh
 
-bash script3.sh  
+bash script3.sh
 
-bash script4.sh /var/log/syslog error  
+bash script4.sh /var/log/syslog error
 
-bash script5.sh  
+bash script5.sh
 
 
 
@@ -148,13 +148,13 @@ bash script5.sh
 
 
 
-\- Bash shell  
+\- Bash shell
 
-\- Core Linux utilities (ls, du, grep, awk, cut)  
+\- Core Linux utilities (ls, du, grep, awk, cut)
 
-\- Package manager (dpkg for Ubuntu/Debian)  
+\- Package manager (dpkg for Ubuntu/Debian)
 
-\- Access to log files  
+\- Access to log files
 
 
 
@@ -166,11 +166,11 @@ bash script5.sh
 
 
 
-\- Scripts were tested on WSL (Ubuntu)  
+\- Scripts were tested on WSL (Ubuntu)
 
-\- Output may vary depending on system configuration  
+\- Output may vary depending on system configuration
 
-\- Firefox must be installed for Script 2 to show full details  
+\- Firefox must be installed for Script 2 to show full details
 
 
 
@@ -183,6 +183,4 @@ bash script5.sh
 
 
 This project demonstrates practical understanding of open-source software using Mozilla Firefox. Through scripting and analysis, it highlights key Linux concepts, automation techniques, and the importance of open-source ecosystems.
-
-
 
